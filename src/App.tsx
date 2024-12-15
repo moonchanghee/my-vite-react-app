@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div>HI</div>
+      <div>HI HONG MANG MANG</div>
     </>
   )
 }
